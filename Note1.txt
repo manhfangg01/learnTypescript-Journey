@@ -1,0 +1,3 @@
+Typescript là Javascript + Types
+Có thể đổi luân phiên giữa 2 thằng
+-> Typescript là một ngôn ngữ based on JS nhưng vững hơn

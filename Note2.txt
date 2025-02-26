@@ -1,0 +1,13 @@
+Có 2 cách để chạy file Typescript
+1. Dùng node+ TSC
+    B1. tsc+<Tên file.ts> Để compile ra file.JS
+    B2. node + <Tên file.js> để chạy file.js
+2. Dùng thư viện của ts-node -> sẽ chạy file ts luôn mà không cần phải compile ra file js
+    ts-node <tên file.ts>
+3. Dùng inspect Console của html layout để hiển thị
+    B1. tsc+<Tên file.ts> Để compile ra file.JS
+    B2. link file js vào trong html
+    B3. Vào console trong inspect của file.html để xem log
+
+
+* Lưu ý là phải đưa đường dẫn đến thư mục của 2 file trên rồi mới thực hiện
