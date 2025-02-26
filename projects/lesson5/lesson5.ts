@@ -1,3 +1,5 @@
-let ten: string = "Eric";
+let lang: Object = ["Javascript", "Python", "Java"];
+console.log(lang);
 
-console.log(ten.toUpperCase());
+let arr: string[] = ["Javascript", "Python", "Java"];
+console.log(arr);
