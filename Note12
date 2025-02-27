@@ -1,0 +1,3 @@
+-   to creat an array in TS -> let arrayName:type[]=[]
+-   to add last -> arrayName.push()
+-   to create multidatatype array -> let arrayName:(type1 | type2 | type...)[]=[]. HOWEVER this is unrecommended
