@@ -1,0 +1,15 @@
+Object in TS
+-   to assign and initialize
+
+        let <ObjectName>:{
+            f1:datatype1;
+            f2:datatype2;
+            f3?:datatype3;
+        } =
+        {
+            f1:v1,
+            f2:v2
+        };
+
+-   you can't add more field to a initialized object
+-   you can create an optional field in an object by using "?" alike f3 field above
