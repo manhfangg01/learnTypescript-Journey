@@ -13,3 +13,4 @@ Object in TS
 
 -   you can't add more field to a initialized object
 -   you can create an optional field in an object by using "?" alike f3 field above
+    -> However the rule is the optional field must be the last field
