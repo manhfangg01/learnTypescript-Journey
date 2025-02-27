@@ -1,0 +1,7 @@
+identify Uppercase / Lowercase datatype
+
+- Uppercase datatype: presents for Object class (shouldn't use)
+- Uppercase datatype: presents for Normal variable{
+    + primitive datatype
+    + reference datatype
+} (should use)

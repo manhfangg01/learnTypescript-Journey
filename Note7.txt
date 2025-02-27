@@ -1,0 +1,6 @@
+Type inference vs Type annotation
+
+-   Type inference: TS will guess datatype of a variable by using a specific algorithm
+    + use when you are not sure about containing value of a variable
+-   Type annotation: Dev specifically declare datatype of a variable
+    + use when you want to ensure during life cycle of that variable it just can be assign by the original datatype

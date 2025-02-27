@@ -1,0 +1,1 @@
+Number type does not distinguish integer, float, or double - number is number
